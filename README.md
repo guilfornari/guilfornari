@@ -1,9 +1,9 @@
-### Greetings! :v:
+## Greetings! :v:
 
--Name: Guil;
--Class: Fullstack developer;
--Race: Human;
--Origin: Florianópolis/SC, Brazil;
+- Name: Guil;
+- Class: Fullstack developer;
+- Race: Human;
+- Origin: Florianópolis/SC, Brazil;
 
 <!--
 **guilfornari/guilfornari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
