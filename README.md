@@ -1,12 +1,14 @@
 ## Greetings, adventurer! :v:
 <div>
 Name: Guil
-<br>
+</br>
 Class: Fullstack developer
-<br>
+</br>
 Race: Human
-<br>
+</br>
 Origin: Florianópolis/SC, Brazil
+</br>
+Background: Engineer
 </div>
 <!--
 **guilfornari/guilfornari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
