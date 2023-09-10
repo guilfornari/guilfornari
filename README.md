@@ -1,13 +1,13 @@
 ## Greetings, adventurer! :v:
 <div>
 Name: Guil
-</br>
+<br>
 Class: Fullstack developer
-</br>
+<br>
 Race: Human
-</br>
+<br>
 Origin: Florianópolis/SC, Brazil
-</br>
+<br>
 Background: Engineer
 </div>
 <!--
