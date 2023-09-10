@@ -10,6 +10,9 @@ Origin: Florianópolis/SC, Brazil
 <br>
 Background: Engineer
 <br>
+Town: Curitiba/PR
+<br>
+<br>
 <!--
 **guilfornari/guilfornari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
