@@ -9,7 +9,7 @@ Race: Human
 Origin: Florianópolis/SC, Brazil
 <br>
 Background: Engineer
-</div>
+  
 <!--
 **guilfornari/guilfornari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
