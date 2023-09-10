@@ -13,7 +13,7 @@ Origin: Florianópolis/SC, Brazil
 
 Here are some ideas to get you started:
 -->
-- :desktop_computer: I’m currently working on an app that safely stores sensitive data;
+- :desktop_computer: I’m working on an app that safely stores sensitive data;
 - 🌱 I’m currently learning Nest.Js;
 - 💬 Talk to me about technology, basketball, cooking and RPG;
 - 📫 How to reach me: guilfornari@gmail.com;
