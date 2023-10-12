@@ -1,6 +1,6 @@
 ## Greetings, adventurer! :v:
 
-Name: Guil
+Charracter Name: Guil
 <br>
 Class: Fullstack developer
 <br>
